@@ -1,6 +1,6 @@
 # Oefententamen
 Week 4
-  + Beatles
+>! Spoiler text  + Beatles
   + strings  
   
 Week 5
