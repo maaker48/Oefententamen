@@ -1,8 +1,8 @@
 # Welcome to [SQL](https://github.com/maaker48/Oefententamen/blob/master/SQL.md)  
 
 <details> 
-  <summary>	- In the entry field, select all customers the company currently delivers to.</summary>
-   <p> A1: JavaScript </p> 
+  <summary>In the entry field, select all customers the company currently delivers to.</summary>
+   <p>SELECT * FROM Customers;</p> 
 </details>
 
 - In the entry field, select all customers the company currently delivers to.
