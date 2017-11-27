@@ -1,37 +1,13 @@
-# Welcome to [SQL](https://github.com/maaker48/Oefententamen/blob/master/SQL.md)  
+# Welcome to [SQL](https://github.com/maaker48/Oefententamen/blob/master/SQL.md)
 
-<details> 
-  <summary>In the entry field, select all customers the company currently delivers to.</summary>
-   <p>-	SELECT * FROM Customers;</p> 
-</details>
+You work at MaliExpress, a fast growing on-line food company in Africa with residencies on all continents. The company just expanded to world wide delivery and has asked you to ensure all data is properly stored in the company’s SQL database. To do that, you execute a few tests on the database.
 
-<details> 
-  <summary>Select all customers from Germany, but only their `CustomerName` and `City`.</summary>
-   <p>- SELECT CustomerName, City FROM Customers;</p> 
-</details>
+- In the entry field, select all customers the company currently delivers to.
+    - SELECT * FROM Customers;
 
-<details> 
-  <summary>In the entry field, select all customers the company currently delivers to.</summary>
-   <p>-	SELECT * FROM Customers;</p> 
-</details>
-<details> 
-  <summary>In the entry field, select all customers the company currently delivers to.</summary>
-   <p>-	SELECT * FROM Customers;</p> 
-</details>
-<details> 
-  <summary>In the entry field, select all customers the company currently delivers to.</summary>
-   <p>-	SELECT * FROM Customers;</p> 
-</details>
-<details> 
-  <summary>In the entry field, select all customers the company currently delivers to.</summary>
-   <p>-	SELECT * FROM Customers;</p> 
-</details>
-<details> 
-  <summary>In the entry field, select all customers the company currently delivers to.</summary>
-   <p>-	SELECT * FROM Customers;</p> 
-</details>
 - Select all customers from Germany, but only their `CustomerName` and `City`
-	
+	- SELECT CustomerName, City
+	FROM Customers;
 
 
 - Select _Die Wandernde Kuh_ by using their `CustomerID`(id=86)
@@ -102,7 +78,6 @@ Someone ordered all products of 'Chef Anton'. We can select those easily with on
     SELECT * FROM Products WHERE ProductName LIKE '%Chef Anton%'; 
 
 - Select all products with 'Chef Anton' but only show their prices  
-
 
     SELECT ProductName, Price FROM Products WHERE ProductName LIKE '%Chef Anton%'; 
 
