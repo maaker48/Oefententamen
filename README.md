@@ -1,4 +1,15 @@
 # Oefententamen
-pset2 oefen antwoorden
-
-Hier kan je de antwoorden vinden voor de tentamen
+Week 4
++ Beatles
++ strings
+Week 5
++ Linked
+Week 6
++ Python
+week 7
++ CSS
++ SQL
++ XKCD
+Week 8
++ Promises
++ Classes
