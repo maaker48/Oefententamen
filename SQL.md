@@ -1,7 +1,6 @@
 # Welcome to [SQL](https://github.com/maaker48/ToDoApp)
-<details> 
-  <h2>Q1: What is the best Language in the World?</h2>
-   <p> <li>A1: JavaScript </li>
+<In the entry field, select all customers the company currently delivers to.> 
+<p> <li>A1: JavaScript </li>
 <li>A1: JavaScript </li></p> 
 </details>
 
