@@ -1,8 +1,9 @@
-# Welcome to [SQL](https://github.com/maaker48/ToDoApp)
+# Welcome to [SQL](https://github.com/maaker48/Oefententamen/blob/master/SQL.md)  
+
 <In the entry field, select all customers the company currently delivers to.> 
 <p> <li>A1: JavaScript </li>
 <li>A1: JavaScript </li></p> 
-</details>
+</In the entry field, select all customers the company currently delivers to.>
 
 - In the entry field, select all customers the company currently delivers to.
     - SELECT * FROM Customers;
