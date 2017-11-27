@@ -1,7 +1,11 @@
 # Oefententamen
-Week 4
-! + Beatles
+Week 4  
+  + Beatles
   + strings  
+  <details> 
+  <summary>Q1: What is the best Language in the World? </summary>
+   A1: JavaScript 
+</details>
   
 Week 5
   + <a href="https://github.com/maaker48/Oefententamen/blob/master/linked(1).c">Linked</a>  
