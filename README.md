@@ -19,7 +19,7 @@ Week 8
   + Classes
   
   <details> 
-  <summary>- Select all customers _except_ those residing in Germany.</summary>
+  <summary>- Select all customers _except_ those residing in Germany.</summary>  
     - SELECT * FROM Customers WHERE Country<>'Germany';  
     - SELECT * FROM Customers WHERE NOT Country='Germany';  
 </details>
