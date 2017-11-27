@@ -5,12 +5,33 @@
    <p>-	SELECT * FROM Customers;</p> 
 </details>
 
-- In the entry field, select all customers the company currently delivers to.
-    - SELECT * FROM Customers;
+<details> 
+  <summary>Select all customers from Germany, but only their `CustomerName` and `City`.</summary>
+   <p>- SELECT CustomerName, City FROM Customers;</p> 
+</details>
 
+<details> 
+  <summary>In the entry field, select all customers the company currently delivers to.</summary>
+   <p>-	SELECT * FROM Customers;</p> 
+</details>
+<details> 
+  <summary>In the entry field, select all customers the company currently delivers to.</summary>
+   <p>-	SELECT * FROM Customers;</p> 
+</details>
+<details> 
+  <summary>In the entry field, select all customers the company currently delivers to.</summary>
+   <p>-	SELECT * FROM Customers;</p> 
+</details>
+<details> 
+  <summary>In the entry field, select all customers the company currently delivers to.</summary>
+   <p>-	SELECT * FROM Customers;</p> 
+</details>
+<details> 
+  <summary>In the entry field, select all customers the company currently delivers to.</summary>
+   <p>-	SELECT * FROM Customers;</p> 
+</details>
 - Select all customers from Germany, but only their `CustomerName` and `City`
-	- SELECT CustomerName, City
-	FROM Customers;
+	
 
 
 - Select _Die Wandernde Kuh_ by using their `CustomerID`(id=86)
