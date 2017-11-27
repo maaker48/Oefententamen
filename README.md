@@ -20,6 +20,6 @@ Week 8
   
   <details> 
   <summary>- Select all customers _except_ those residing in Germany.</summary>
-    - SELECT * FROM Customers WHERE Country<>'Germany';
-    - SELECT * FROM Customers WHERE NOT Country='Germany';
+    - SELECT * FROM Customers WHERE Country<>'Germany';  
+    - SELECT * FROM Customers WHERE NOT Country='Germany';  
 </details>
