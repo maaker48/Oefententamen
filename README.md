@@ -1,15 +1,15 @@
 # Oefententamen
 Week 4
-+ Beatles
-+ strings  
+  + Beatles
+  + strings  
 Week 5
-+ Linked
+  + Linked
 Week 6  
-+ Python
+  + Python
 week 7  
-+ CSS
-+ SQL
-+ XKCD
+  + CSS
+  + SQL
+  + XKCD
 Week 8  
-+ Promises
-+ Classes
+  + Promises
+  + Classes
