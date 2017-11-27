@@ -17,3 +17,9 @@ week 7
 Week 8  
   + Promises
   + Classes
+  
+  <details> 
+  <summary>- Select all customers _except_ those residing in Germany.</summary>
+    - SELECT * FROM Customers WHERE Country<>'Germany';
+    - SELECT * FROM Customers WHERE NOT Country='Germany';
+</details>
