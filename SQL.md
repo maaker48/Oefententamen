@@ -1,6 +1,4 @@
-You work at MaliExpress, a fast growing on-line food company in Africa with residencies on all continents. The company just expanded to world wide delivery and has asked you to ensure all data is properly stored in the company's SQL database. To do that, you execute a few tests on the database.
-
-- In the entry field, select all customers the company currently delivers to.
+- #In the entry field, select all customers the company currently delivers to.
 
 As you may notice, customers from all over the world have registered. Take a good look at the customer database to get familiar.
 
