@@ -4,7 +4,7 @@ Week 4
   + strings  
   
 Week 5
-  + <a href="https://github.com/maaker48/Oefententamen/blob/master/linked(1).c"><"Linked"</a>  
+  + <a href="https://github.com/maaker48/Oefententamen/blob/master/linked(1).c">Linked</a>  
   
 Week 6  
   + Python  
