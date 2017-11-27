@@ -2,7 +2,7 @@
 
 <details> 
   <summary>In the entry field, select all customers the company currently delivers to.</summary>
-   <p>SELECT * FROM Customers;</p> 
+   <p>-	SELECT * FROM Customers;</p> 
 </details>
 
 - In the entry field, select all customers the company currently delivers to.
