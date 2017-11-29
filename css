@@ -1,0 +1,59 @@
+/* Body is tagg, #jemoeder = id="jemoeder" .student= class="student" */
+    body {
+        color: orange;
+        background: purple;
+    }
+    table{
+        border: 5px solid red;
+    }
+    tr{
+        height: 50px ;
+    }
+    #jemoeder{
+        color: black;
+        border: 5px solid blue;
+    }
+    .student{
+        color: white;
+    }
+    td{
+        background-color: black;
+        font-size: 22pt;
+        font-family: Arial;
+        text-align: center;
+        width: 50px;
+    }
+    
+    <html>
+    <head>
+       <link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+    <body>
+        <table>
+            <tr id="jemoeder">
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>6</td>
+                <td>7</td>
+                <td>8</td>
+            </tr>
+            <tr class="student" >
+                <td>9</td>
+                <td>10</td>
+                <td>11</td>
+                <td>12</td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td>14</td>
+                <td>15</td>
+                <td>16</td>
+            </tr>
+        </table>
+    </body>
+</html>
